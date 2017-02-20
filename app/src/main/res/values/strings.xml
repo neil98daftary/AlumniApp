@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">AlumniApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hello">Hello</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_computers">Computers</string>
+    <string name="title_activity_it">IT</string>
+    <string name="title_activity_extc">EXTC</string>
+    <string name="title_activity_etrx">ETRX</string>
+    <string name="title_activity_spit">SPIT</string>
+    <string name="title_activity_developers">Developers</string>
+    <string-array name="comps_name">
+        <item>Kaushik Pai</item>
+        <item>Prajwal Shimpi</item>
+        <item>Suyash Thakare</item>
+        <item>Rohit Naik</item>
+        <item>Chaitanya Bapat</item>
+    </string-array>
+    <string-array name="comps_batch">
+        <item>Batch of 2012</item>
+        <item>Batch of 2013</item>
+        <item>Batch of 2015</item>
+        <item>Batch of 2009</item>
+        <item>Batch of 2014</item>
+    </string-array>
+    <string-array name="comps_email">
+        <item>kp@gmail.com</item>
+        <item>ps@gmail.com</item>
+        <item>st@gmail.com</item>
+        <item>rn@gmail.com</item>
+        <item>cb@gmail.com</item>
+    </string-array>
+
+    <string-array name="etrx_name">
+        <item>Himanshu Joshi</item>
+        <item>Prutha Atre</item>
+        <item>Ayush Shah</item>
+        <item>Twinkle Rambhia</item>
+        <item>Varsha Shetty</item>
+    </string-array>
+    <string-array name="etrx_batch">
+        <item>Batch of 2008</item>
+        <item>Batch of 2006</item>
+        <item>Batch of 2013</item>
+        <item>Batch of 2012</item>
+        <item>Batch of 2019</item>
+    </string-array>
+    <string-array name="etrx_email">
+        <item>himanshu@gmail.com</item>
+        <item>atre@gmail.com</item>
+        <item>ayush@gmail.com</item>
+        <item>twinkle@gmail.com</item>
+        <item>varshas@gmail.com</item>
+    </string-array>
+
+    <string-array name="extc_name">
+        <item>Michelle Vetekar</item>
+        <item>Diptanshu Sharma</item>
+        <item>Akhil Sardesai</item>
+        <item>Abhay Sundasia</item>
+        <item>Garvit Bhatt</item>
+    </string-array>
+    <string-array name="extc_batch">
+        <item>Batch of 2009</item>
+        <item>Batch of 2017</item>
+        <item>Batch of 2010</item>
+        <item>Batch of 2011</item>
+        <item>Batch of 2011</item>
+    </string-array>
+    <string-array name="extc_email">
+        <item>mich.v@gmail.com</item>
+        <item>tanshu.s@gmail.com</item>
+        <item>akhil@gmail.com</item>
+        <item>abhay_s@gmail.com</item>
+        <item>bhatt.garvit@gmail.com</item>
+    </string-array>
+
+    <string-array name="it_name">
+        <item>Soumya Passari</item>
+        <item>Anushka Ringshia</item>
+        <item>Ayesha Kazi</item>
+        <item>Apurva Saxena</item>
+        <item>Ria Maheshwari</item>
+    </string-array>
+    <string-array name="it_batch">
+        <item>Batch of 2012</item>
+        <item>Batch of 2013</item>
+        <item>Batch of 2015</item>
+        <item>Batch of 2009</item>
+        <item>Batch of 2014</item>
+    </string-array>
+    <string-array name="it_email">
+        <item>soumyaa@gmail.com</item>
+        <item>ringshia@gmail.com</item>
+        <item>kazi.ay@gmail.com</item>
+        <item>apurva_s@gmail.com</item>
+        <item>ria@gmail.com</item>
+    </string-array>
+    <string name="title_activity_custom_row1">CustomRow1Activity</string>
+    <string name="keeping_in_view_the_growing_needs_of_industry_and_society_we_are_committed_to_creating_an_environment_which_will_raise_the_intellectual_and_moral_standards_of_our_students_our_endeavor_is_to_strive_for_the_overall_development_of_students_thereby_enabling_them_to_accept_challenges">Keeping in view the growing needs of industry and society, we are committed to creating an environment, which will raise the intellectual and moral standards of our students. Our endeavor is to strive for the overall development of students, thereby enabling them to accept challenges.</string>
+    <string name="Register">https://docs.google.com/forms/d/1wqpJ9fhxHqpOglQq2HU4A3VcGZxCYulk3v2vY1nUQc8/edit</string>
+    <string name="Register_info">Please fill in the form to register. Your details would be added to the app in the next update.</string>
+</resources>

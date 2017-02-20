@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tejas.alumniapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Login"
+            android:label="Sign Up"
+            android:theme="@style/AppTheme.Blue" />
+        <activity
+            android:name=".SignUp"
+            android:label="Log In"
+            android:theme="@style/AppTheme.Blue" />
+        <activity
+            android:name=".HomeScreen"
+            android:label="@string/title_activity_home_screen"
+            android:theme="@style/AppTheme.Blue.NoActionBar" />
+        <activity
+            android:name=".Computers"
+            android:label="@string/title_activity_computers"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".IT"
+            android:label="@string/title_activity_it"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EXTC"
+            android:label="@string/title_activity_extc"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ETRX"
+            android:label="@string/title_activity_etrx"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SPIT"
+            android:label="@string/title_activity_spit"
+            android:theme="@style/AppTheme.Blue.NoActionBar" />
+        <activity
+            android:name=".Developers"
+            android:label="@string/title_activity_developers"
+            android:theme="@style/AppTheme.Blue.NoActionBar" />
+        <activity android:name=".CustomRow1Activity" />
+        <activity android:name=".Register" />
+        <activity android:name=".industry"></activity>
+    </application>
+
+</manifest>

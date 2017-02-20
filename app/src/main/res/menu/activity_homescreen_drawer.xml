@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_homescreen" android:icon="@android:drawable/btn_star"
+            android:title="Home Screen" />
+        <item android:id="@+id/nav_aboutspit" android:icon="@android:drawable/btn_star"
+            android:title="About S.P.I.T." />
+        <item android:id="@+id/nav_developers" android:icon="@android:drawable/btn_star"
+            android:title="Developers" />
+
+        <item android:id="@+id/nav_alumniregistration" android:icon="@android:drawable/btn_star"
+            android:title="Register as Alumni" />
+
+        <item android:id="@+id/nav_industry" android:icon="@android:drawable/btn_star"
+            android:title="Industry Interaction" />
+
+        <item android:id="@+id/nav_signout" android:icon="@android:drawable/btn_star"
+            android:title="Sign Out" />
+
+    </group>
+</menu>

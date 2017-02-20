@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_developers"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.tejas.alumniapp.Developers"
+    tools:showIn="@layout/activity_developers">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="This app has been made by sincere and constant efforts made by the students of Sardar Patel Institute of Technology with the intention of phasing the gap between S.P.I.T. students and the Alumnis of the Institute.Feel free to contact us with any constructive query or suggestions"
+        android:textColor="@color/colorPrimaryDark"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="17dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developed by:"
+        android:paddingTop="25dp"
+        android:textSize="20dp"
+        android:fontFamily="sans-serif-medium"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Neil Daftary"
+        android:textColor="@color/Black"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="17dp"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:fontFamily="sans-serif-medium"
+        android:layout_height="wrap_content"
+        android:text="Harsh Jain"
+        android:textSize="17dp"
+        android:textColor="@color/Black"
+        android:layout_gravity="center_horizontal"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:fontFamily="sans-serif-medium"
+        android:layout_height="wrap_content"
+        android:text="Aditya Gaikwad"
+        android:textSize="17dp"
+        android:textColor="@color/Black"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17dp"
+        android:text="Tejas Chheda"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@color/Black"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jaydeep Rao"
+        android:textSize="17dp"
+        android:textColor="@color/Black"
+        android:fontFamily="sans-serif-medium"
+        android:layout_gravity="center_horizontal"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meet Gopani"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@color/Black"
+        android:textSize="17dp"
+        android:layout_gravity="center_horizontal"
+        />
+</LinearLayout>

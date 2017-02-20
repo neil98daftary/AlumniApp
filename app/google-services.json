@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1054607932010",
+    "firebase_url": "https://alumniapp-e155a.firebaseio.com",
+    "project_id": "alumniapp-e155a",
+    "storage_bucket": "alumniapp-e155a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054607932010:android:51fab8ed54c82a60",
+        "android_client_info": {
+          "package_name": "com.example.tejas.alumniapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054607932010-73mnipdcmqlkrfrhu763h28ak2ho7u7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuB1EOZtDNhYObcWlH0V7uoBrL07P_S_w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
